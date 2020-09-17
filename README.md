@@ -1,0 +1,2 @@
+# Suspected-Infection-in-Patients
+Sepsis is a deadly illness that accounts for a large portion of in-hospital deaths. It occurs when a person's organs shut down in response to a severe infection. This public health problem is a major target for research, and hospital records can help us investigate the problem. In this R project, we will identify hospital patients with severe infection using medical record data
